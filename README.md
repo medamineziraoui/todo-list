@@ -1,3 +1,5 @@
+Todo list application with a filter, change status and deleting features
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
